@@ -1,0 +1,443 @@
+E; project; project1; vpl; 1140.5467; cost; 27635.775
+E; project; project2; vpl; 1122.543; cost; 22668.4397
+E; project; project3; vpl; 1255.408; cost; 21245.4181
+E; project; project4; vpl; 1240.7722; cost; 23554.9931
+E; project; project5; vpl; 1483.2466; cost; 23976.2174
+E; project; project6; vpl; 1134.8628; cost; 28528.4826
+E; project; project7; vpl; 1306.1708; cost; 27660.4015
+E; project; project8; vpl; 1236.6445; cost; 26619.8774
+E; project; project9; vpl; 1487.9723; cost; 18804.5029
+E; project; project10; vpl; 1299.2968; cost; 19885.7916
+E; project; project11; vpl; 1327.2992; cost; 21005.1826
+E; project; project12; vpl; 1215.0274; cost; 19448.8297
+E; project; project13; vpl; 1063.6259; cost; 27912.2236
+E; project; project14; vpl; 1084.8786; cost; 28011.265
+E; project; project15; vpl; 1124.1866; cost; 22150.8889
+E; project; project16; vpl; 1252.474; cost; 19869.5937
+E; project; project17; vpl; 1446.3046; cost; 16110.3776
+E; project; project18; vpl; 1313.8929; cost; 27348.7259
+E; project; project19; vpl; 1098.7172; cost; 20596.4745
+E; project; project20; vpl; 1249.0209; cost; 26105.1343
+E; project; project21; vpl; 1311.1807; cost; 16287.6801
+E; project; project22; vpl; 1165.0826; cost; 19975.8016
+E; project; project23; vpl; 1390.2621; cost; 24274.8628
+E; project; project24; vpl; 1025.3103; cost; 29203.7786
+E; project; project25; vpl; 1195.0279; cost; 22301.5343
+E; project; project26; vpl; 1049.869; cost; 24102.9603
+E; project; project27; vpl; 1096.3719; cost; 16048.7255
+E; project; project28; vpl; 1312.5683; cost; 23357.5377
+E; project; project29; vpl; 1382.8512; cost; 28865.571
+E; project; project30; vpl; 1326.1999; cost; 23430.6217
+E; project; project31; vpl; 1271.79; cost; 26971.4358
+E; project; project32; vpl; 1467.4871; cost; 20398.7362
+E; project; project33; vpl; 1162.5679; cost; 16631.8483
+E; project; project34; vpl; 1365.9103; cost; 20273.1229
+E; project; project35; vpl; 1037.7119; cost; 28219.7735
+E; project; project36; vpl; 1490.6392; cost; 19525.8257
+E; project; project37; vpl; 1492.7975; cost; 23043.7296
+E; project; project38; vpl; 1058.3736; cost; 22540.9415
+E; project; project39; vpl; 1407.1388; cost; 15279.7785
+E; project; project40; vpl; 1439.2596; cost; 21663.7432
+E; project; project41; vpl; 1160.558; cost; 19257.1396
+E; project; project42; vpl; 1415.7433; cost; 27948.9408
+E; project; project43; vpl; 1346.7289; cost; 19485.6943
+E; project; project44; vpl; 1103.0628; cost; 29812.4265
+E; project; project45; vpl; 1428.03; cost; 20493.3243
+E; project; project46; vpl; 1043.2267; cost; 23188.526
+E; project; project47; vpl; 1150.7209; cost; 23374.2538
+E; project; project48; vpl; 1355.2201; cost; 22279.0818
+E; project; project49; vpl; 1480.5381; cost; 21595.4291
+E; project; project50; vpl; 1351.6044; cost; 21265.4573
+E; risk; risk1; probability; 61.5175
+E; risk; risk2; probability; 85.8957
+E; risk; risk3; probability; 61.9578
+E; risk; risk4; probability; 10.388
+E; risk; risk5; probability; 50.1867
+E; risk; risk6; probability; 25.0891
+E; risk; risk7; probability; 23.0407
+E; risk; risk8; probability; 33.3397
+E; risk; risk9; probability; 73.1679
+E; risk; risk10; probability; 40.7859
+R; affects; risk1; project34; impact; -5390.508
+R; affects; risk1; project36; impact; -4316.3311
+R; affects; risk1; project4; impact; -3217.5875
+R; affects; risk1; project35; impact; -644.201
+R; affects; risk1; project37; impact; 196.2053
+R; affects; risk1; project43; impact; -6348.9452
+R; affects; risk1; project6; impact; -3001.4362
+R; affects; risk1; project46; impact; -937.8719
+R; affects; risk1; project11; impact; 395.1393
+R; affects; risk1; project21; impact; 1717.5766
+R; affects; risk1; project49; impact; 247.0467
+R; affects; risk1; project14; impact; -2816.1137
+R; affects; risk1; project44; impact; -2593.9152
+R; affects; risk1; project8; impact; -2364.3728
+R; affects; risk1; project18; impact; -3865.4267
+R; affects; risk1; project5; impact; -4338.9931
+R; affects; risk1; project20; impact; -2391.7779
+R; affects; risk1; project9; impact; -4321.7829
+R; affects; risk1; project25; impact; -2960.9418
+R; affects; risk1; project26; impact; 2866.9928
+R; affects; risk1; project3; impact; -2211.5741
+R; affects; risk1; project23; impact; -2280.833
+R; affects; risk1; project24; impact; 268.0304
+R; affects; risk1; project27; impact; -4223.8188
+R; affects; risk1; project31; impact; -3154.0912
+R; affects; risk1; project2; impact; 2550.9021
+R; affects; risk1; project47; impact; 1865.5572
+R; affects; risk1; project13; impact; -6750.9069
+R; affects; risk1; project32; impact; -4744.3634
+R; affects; risk1; project15; impact; -870.6383
+R; affects; risk1; project28; impact; -1542.1389
+R; affects; risk1; project19; impact; -4669.1156
+R; affects; risk1; project12; impact; -2213.4521
+R; affects; risk1; project33; impact; 1770.2222
+R; affects; risk1; project22; impact; 1033.8506
+R; affects; risk1; project7; impact; -6797.5969
+R; affects; risk1; project39; impact; -3295.361
+R; affects; risk1; project48; impact; -2687.2036
+R; affects; risk1; project1; impact; -2935.9529
+R; affects; risk1; project10; impact; -2807.1051
+R; affects; risk1; project41; impact; -765.0857
+R; affects; risk1; project30; impact; 3371.4068
+R; affects; risk1; project45; impact; 3400.9799
+R; affects; risk1; project40; impact; -2750.8345
+R; affects; risk1; project16; impact; -6169.6114
+R; affects; risk1; project17; impact; -4624.9596
+R; affects; risk1; project29; impact; -2484.8046
+R; affects; risk1; project38; impact; -4293.4045
+R; affects; risk1; project42; impact; -2055.8034
+R; affects; risk1; project50; impact; -2716.6456
+R; affects; risk2; project3; impact; 208.1625
+R; affects; risk2; project23; impact; -6348.3145
+R; affects; risk2; project45; impact; -3385.5322
+R; affects; risk2; project44; impact; -1700.5598
+R; affects; risk2; project31; impact; 2043.33
+R; affects; risk2; project48; impact; -3563.2472
+R; affects; risk2; project36; impact; -1742.8577
+R; affects; risk2; project37; impact; -2113.1987
+R; affects; risk2; project6; impact; -3102.4742
+R; affects; risk2; project33; impact; -4981.6651
+R; affects; risk2; project35; impact; 3189.0572
+R; affects; risk2; project43; impact; -2782.3133
+R; affects; risk2; project27; impact; -5111.6403
+R; affects; risk2; project24; impact; -6578.6641
+R; affects; risk2; project41; impact; -5789.0815
+R; affects; risk2; project1; impact; 1691.2682
+R; affects; risk2; project9; impact; 2198.1201
+R; affects; risk2; project4; impact; -4423.3468
+R; affects; risk2; project22; impact; -1078.6879
+R; affects; risk2; project12; impact; -1786.3109
+R; affects; risk3; project46; impact; -5233.2626
+R; affects; risk3; project43; impact; -2536.4186
+R; affects; risk3; project19; impact; 3925.3191
+R; affects; risk3; project37; impact; -4117.0579
+R; affects; risk3; project47; impact; -4220.3634
+R; affects; risk3; project39; impact; -901.8596
+R; affects; risk3; project25; impact; 1464.7798
+R; affects; risk3; project30; impact; -2798.2549
+R; affects; risk3; project16; impact; -4345.3372
+R; affects; risk3; project1; impact; -2838.3178
+R; affects; risk3; project21; impact; -505.4097
+R; affects; risk3; project26; impact; -3597.9147
+R; affects; risk3; project40; impact; -1600.6319
+R; affects; risk3; project2; impact; -2258.1188
+R; affects; risk3; project9; impact; -2672.2444
+R; affects; risk3; project33; impact; -1308.6223
+R; affects; risk3; project38; impact; -890.3203
+R; affects; risk3; project27; impact; -6247.9425
+R; affects; risk3; project4; impact; -2381.6324
+R; affects; risk3; project32; impact; 2758.5682
+R; affects; risk3; project6; impact; -3928.4384
+R; affects; risk3; project44; impact; -4630.8744
+R; affects; risk3; project3; impact; -4397.2997
+R; affects; risk3; project49; impact; -2966.2029
+R; affects; risk3; project36; impact; -2783.4078
+R; affects; risk3; project12; impact; 499.5313
+R; affects; risk3; project42; impact; -594.6788
+R; affects; risk3; project18; impact; -4255.8819
+R; affects; risk3; project50; impact; -2784.5733
+R; affects; risk3; project35; impact; -1122.251
+R; affects; risk3; project24; impact; -1999.4013
+R; affects; risk3; project34; impact; -5281.4223
+R; affects; risk3; project23; impact; -371.7492
+R; affects; risk3; project13; impact; -1242.4442
+R; affects; risk3; project31; impact; -774.0435
+R; affects; risk3; project28; impact; -949.8784
+R; affects; risk3; project41; impact; 549.497
+R; affects; risk3; project45; impact; -3151.4494
+R; affects; risk3; project20; impact; -1551.5853
+R; affects; risk3; project8; impact; -673.9223
+R; affects; risk3; project15; impact; 804.9515
+R; affects; risk3; project14; impact; -1275.6519
+R; affects; risk3; project22; impact; -1870.5808
+R; affects; risk3; project29; impact; -3852.1294
+R; affects; risk3; project11; impact; -910.3544
+R; affects; risk3; project5; impact; -3321.7127
+R; affects; risk3; project10; impact; -5851.168
+R; affects; risk3; project48; impact; -6204.5664
+R; affects; risk3; project17; impact; -1783.9535
+R; affects; risk3; project7; impact; -2915.2978
+R; affects; risk4; project37; impact; -4310.8568
+R; affects; risk4; project34; impact; -1855.0451
+R; affects; risk4; project21; impact; 753.092
+R; affects; risk4; project47; impact; -2107.0993
+R; affects; risk4; project19; impact; -3611.482
+R; affects; risk4; project28; impact; -3788.5793
+R; affects; risk4; project13; impact; -4178.2635
+R; affects; risk4; project16; impact; -3531.7997
+R; affects; risk4; project46; impact; -3907.8115
+R; affects; risk4; project49; impact; -4932.118
+R; affects; risk4; project43; impact; 1820.7472
+R; affects; risk4; project1; impact; -4331.0144
+R; affects; risk4; project10; impact; -3471.3485
+R; affects; risk4; project35; impact; 114.8442
+R; affects; risk4; project48; impact; -5872.9811
+R; affects; risk4; project30; impact; -4948.0379
+R; affects; risk5; project43; impact; -3562.8884
+R; affects; risk5; project32; impact; -5211.9706
+R; affects; risk5; project11; impact; -5939.7597
+R; affects; risk5; project41; impact; -2862.5689
+R; affects; risk5; project2; impact; -2945.7656
+R; affects; risk5; project9; impact; -3254.5074
+R; affects; risk5; project47; impact; -3038.1215
+R; affects; risk5; project30; impact; 2076.7727
+R; affects; risk5; project24; impact; -1044.7876
+R; affects; risk5; project7; impact; 2944.4162
+R; affects; risk5; project26; impact; -5138.0318
+R; affects; risk5; project3; impact; -1270.7626
+R; affects; risk5; project42; impact; 2069.9997
+R; affects; risk5; project8; impact; -6744.0144
+R; affects; risk5; project21; impact; -4661.681
+R; affects; risk5; project10; impact; -3163.3753
+R; affects; risk5; project28; impact; -2579.9978
+R; affects; risk5; project38; impact; -5226.4074
+R; affects; risk5; project37; impact; -1709.4832
+R; affects; risk5; project16; impact; -3491.4717
+R; affects; risk5; project34; impact; -3222.8512
+R; affects; risk5; project44; impact; 545.1949
+R; affects; risk5; project50; impact; -2912.3708
+R; affects; risk5; project5; impact; -5491.2002
+R; affects; risk5; project13; impact; -2840.2673
+R; affects; risk5; project14; impact; -4895.0073
+R; affects; risk5; project17; impact; -4296.2087
+R; affects; risk5; project15; impact; 3595.569
+R; affects; risk5; project12; impact; -6573.6275
+R; affects; risk5; project46; impact; 1692.68
+R; affects; risk5; project36; impact; 3229.8734
+R; affects; risk5; project6; impact; -2029.9318
+R; affects; risk5; project39; impact; 1237.8373
+R; affects; risk6; project1; impact; -5569.6505
+R; affects; risk6; project36; impact; -6657.7937
+R; affects; risk6; project38; impact; -6457.1334
+R; affects; risk6; project4; impact; -616.3698
+R; affects; risk6; project37; impact; -3822.2698
+R; affects; risk6; project50; impact; -6679.1366
+R; affects; risk6; project2; impact; 3568.286
+R; affects; risk6; project35; impact; 4516.1192
+R; affects; risk6; project28; impact; -1694.237
+R; affects; risk6; project18; impact; 4440.2724
+R; affects; risk6; project34; impact; 4534.9603
+R; affects; risk6; project12; impact; -3700.3409
+R; affects; risk6; project29; impact; -6183.3927
+R; affects; risk6; project21; impact; -6796.0506
+R; affects; risk6; project23; impact; -3952.0489
+R; affects; risk6; project13; impact; 4865.539
+R; affects; risk6; project49; impact; 2895.0154
+R; affects; risk6; project7; impact; -3637.0715
+R; affects; risk7; project5; impact; -1145.9439
+R; affects; risk7; project21; impact; -4734.2525
+R; affects; risk7; project44; impact; 501.582
+R; affects; risk7; project25; impact; -5256.0228
+R; affects; risk7; project46; impact; -2853.1074
+R; affects; risk7; project49; impact; -3460.5634
+R; affects; risk7; project4; impact; -787.2708
+R; affects; risk7; project50; impact; 418.9616
+R; affects; risk7; project28; impact; -6357.9335
+R; affects; risk7; project11; impact; 4645.6206
+R; affects; risk7; project17; impact; -6424.6399
+R; affects; risk7; project9; impact; -4329.2438
+R; affects; risk7; project20; impact; 1235.182
+R; affects; risk7; project22; impact; -3725.9589
+R; affects; risk7; project39; impact; -6424.0419
+R; affects; risk7; project7; impact; 4953.8556
+R; affects; risk7; project10; impact; -6453.3308
+R; affects; risk7; project40; impact; -1976.7195
+R; affects; risk7; project42; impact; -6175.5103
+R; affects; risk7; project19; impact; -5990.6222
+R; affects; risk7; project13; impact; 117.3635
+R; affects; risk7; project45; impact; 2231.1021
+R; affects; risk7; project41; impact; -677.1913
+R; affects; risk7; project1; impact; -1325.5824
+R; affects; risk7; project29; impact; -352.5193
+R; affects; risk7; project30; impact; -3743.3559
+R; affects; risk7; project26; impact; 1825.3432
+R; affects; risk7; project23; impact; -1275.267
+R; affects; risk7; project34; impact; -4730.9046
+R; affects; risk7; project15; impact; -1247.4952
+R; affects; risk7; project47; impact; -6793.317
+R; affects; risk7; project24; impact; -3107.522
+R; affects; risk7; project31; impact; -5591.5609
+R; affects; risk7; project32; impact; 2976.8241
+R; affects; risk7; project35; impact; -5873.7289
+R; affects; risk7; project14; impact; 3157.569
+R; affects; risk7; project3; impact; -4929.2965
+R; affects; risk7; project43; impact; -1206.6389
+R; affects; risk7; project12; impact; -1975.2605
+R; affects; risk7; project16; impact; -4954.6843
+R; affects; risk7; project48; impact; -5847.5115
+R; affects; risk7; project2; impact; -3977.1056
+R; affects; risk7; project18; impact; -699.5162
+R; affects; risk7; project33; impact; -579.4305
+R; affects; risk7; project38; impact; -6181.1073
+R; affects; risk7; project27; impact; -2503.43
+R; affects; risk7; project37; impact; -4210.8381
+R; affects; risk7; project6; impact; 379.2312
+R; affects; risk7; project8; impact; 3904.6605
+R; affects; risk7; project36; impact; -3251.9861
+R; affects; risk8; project47; impact; -4846.4873
+R; affects; risk8; project31; impact; -5656.1705
+R; affects; risk8; project26; impact; -1592.7441
+R; affects; risk8; project22; impact; -2130.4778
+R; affects; risk8; project13; impact; 4099.8328
+R; affects; risk8; project6; impact; -5324.8508
+R; affects; risk8; project35; impact; -4400.3559
+R; affects; risk8; project5; impact; -885.4423
+R; affects; risk8; project41; impact; -310.0192
+R; affects; risk8; project1; impact; -6539.0142
+R; affects; risk8; project48; impact; 3797.429
+R; affects; risk8; project32; impact; -3032.1545
+R; affects; risk8; project39; impact; -2327.0051
+R; affects; risk8; project40; impact; -3992.0535
+R; affects; risk8; project16; impact; -1800.0606
+R; affects; risk8; project20; impact; -1465.3206
+R; affects; risk8; project17; impact; -4463.0497
+R; affects; risk8; project11; impact; -826.5151
+R; affects; risk8; project10; impact; 4451.2322
+R; affects; risk8; project18; impact; -4668.8804
+R; affects; risk8; project33; impact; -1037.4348
+R; affects; risk8; project21; impact; -3.474
+R; affects; risk8; project44; impact; -1820.6888
+R; affects; risk8; project29; impact; -4014.8181
+R; affects; risk8; project36; impact; -454.5896
+R; affects; risk8; project42; impact; 2860.1923
+R; affects; risk8; project8; impact; -474.6578
+R; affects; risk8; project49; impact; -4550.7022
+R; affects; risk8; project34; impact; 3448.479
+R; affects; risk8; project15; impact; -575.4192
+R; affects; risk8; project45; impact; -5492.7196
+R; affects; risk8; project38; impact; -2397.5067
+R; affects; risk8; project7; impact; -3879.0759
+R; affects; risk8; project46; impact; -5054.2262
+R; affects; risk8; project4; impact; -4860.5588
+R; affects; risk8; project25; impact; 4776.7257
+R; affects; risk8; project9; impact; -858.9807
+R; affects; risk8; project43; impact; -500.9425
+R; affects; risk8; project14; impact; -4861.8133
+R; affects; risk8; project50; impact; -1103.8925
+R; affects; risk8; project23; impact; -2116.6753
+R; affects; risk8; project28; impact; -756.8387
+R; affects; risk8; project30; impact; -5552.4741
+R; affects; risk8; project24; impact; -4028.1169
+R; affects; risk8; project2; impact; -6580.6354
+R; affects; risk8; project19; impact; 637.3039
+R; affects; risk8; project37; impact; -3064.5238
+R; affects; risk8; project3; impact; -4902.7593
+R; affects; risk8; project12; impact; -833.9197
+R; affects; risk8; project27; impact; -3293.6921
+R; affects; risk9; project34; impact; -5266.528
+R; affects; risk9; project16; impact; -1777.6881
+R; affects; risk9; project7; impact; -302.8362
+R; affects; risk9; project44; impact; -1419.1585
+R; affects; risk9; project41; impact; -413.7366
+R; affects; risk9; project32; impact; -6738.0053
+R; affects; risk9; project8; impact; -4782.7921
+R; affects; risk9; project11; impact; -5079.42
+R; affects; risk9; project22; impact; 1901.9483
+R; affects; risk9; project45; impact; -6092.7907
+R; affects; risk9; project13; impact; -2154.3376
+R; affects; risk9; project33; impact; -1729.9903
+R; affects; risk9; project19; impact; -561.8778
+R; affects; risk9; project6; impact; 4743.3963
+R; affects; risk9; project40; impact; -3049.9817
+R; affects; risk9; project35; impact; -4791.8752
+R; affects; risk9; project4; impact; -4885.7736
+R; affects; risk9; project26; impact; 649.6302
+R; affects; risk9; project10; impact; -6713.0196
+R; affects; risk9; project48; impact; -3983.54
+R; affects; risk9; project3; impact; -3754.2916
+R; affects; risk9; project37; impact; -3282.5575
+R; affects; risk9; project2; impact; -4501.53
+R; affects; risk9; project30; impact; 1575.5613
+R; affects; risk9; project12; impact; -2959.1897
+R; affects; risk9; project28; impact; -461.3066
+R; affects; risk9; project9; impact; -2966.1398
+R; affects; risk9; project47; impact; -6410.4623
+R; affects; risk9; project23; impact; -6145.7374
+R; affects; risk9; project24; impact; -4137.8978
+R; affects; risk9; project20; impact; -5846.3315
+R; affects; risk9; project18; impact; -5518.6644
+R; affects; risk9; project42; impact; -4749.4887
+R; affects; risk9; project29; impact; -4956.7662
+R; affects; risk9; project36; impact; -39.5674
+R; affects; risk9; project5; impact; 3111.0485
+R; affects; risk9; project43; impact; -1080.449
+R; affects; risk9; project31; impact; -4195.2969
+R; affects; risk9; project21; impact; -4726.7482
+R; affects; risk9; project15; impact; -4049.9129
+R; affects; risk9; project50; impact; -3804.0534
+R; affects; risk9; project49; impact; -4264.4877
+R; affects; risk9; project17; impact; -4834.7229
+R; affects; risk9; project39; impact; 1208.5573
+R; affects; risk9; project1; impact; -2857.3325
+R; affects; risk9; project38; impact; -5014.1608
+R; affects; risk10; project21; impact; 1947.2594
+R; affects; risk10; project25; impact; -1511.3658
+R; affects; risk10; project43; impact; -3509.3692
+R; affects; risk10; project46; impact; -6537.6905
+R; affects; risk10; project44; impact; -4398.7205
+R; affects; risk10; project20; impact; 3131.7617
+R; affects; risk10; project6; impact; -1968.2231
+R; affects; risk10; project14; impact; 2182.4887
+R; affects; risk10; project4; impact; -2754.0752
+R; affects; risk10; project19; impact; -6009.9523
+R; affects; risk10; project34; impact; -5754.7947
+R; affects; risk10; project45; impact; -5042.6949
+R; affects; risk10; project24; impact; -4507.2698
+R; affects; risk10; project11; impact; 3442.9654
+R; affects; risk10; project47; impact; -4.2718
+R; affects; risk10; project33; impact; -2177.3388
+R; affects; risk10; project1; impact; -6509.9585
+R; affects; risk10; project3; impact; -2474.2101
+R; affects; risk10; project31; impact; -4097.3968
+R; affects; risk10; project50; impact; -5375.024
+R; affects; risk10; project36; impact; 4506.7321
+R; affects; risk10; project16; impact; -5835.5689
+R; affects; risk10; project27; impact; -3622.0206
+R; affects; risk10; project26; impact; -1744.1274
+R; affects; risk10; project35; impact; -1693.6648
+R; affects; risk10; project38; impact; -3348.8718
+R; affects; risk10; project23; impact; -4490.4263
+R; affects; risk10; project41; impact; -4327.4001
+R; affects; risk10; project37; impact; -1769.0467
+R; affects; risk10; project5; impact; -4247.9572
+R; affects; risk10; project2; impact; -4835.0084
+R; affects; risk10; project42; impact; -4159.5133
+R; affects; risk10; project13; impact; -3363.2989
+R; affects; risk10; project49; impact; 2989.7604
+R; affects; risk10; project29; impact; -2376.936
+R; affects; risk10; project7; impact; -4058.4197
+R; affects; risk10; project9; impact; -3793.0447
+R; affects; risk10; project30; impact; -4152.3833
+R; affects; risk10; project12; impact; -2963.5104
+R; affects; risk10; project22; impact; 2327.2847
+R; affects; risk10; project15; impact; -4350.3636
+R; affects; risk10; project10; impact; 1749.7528
+R; affects; risk10; project28; impact; -2635.2189
+R; affects; risk10; project48; impact; 4113.6445
+R; affects; risk10; project40; impact; 4441.5777
+R; affects; risk10; project39; impact; 512.2034
+R; affects; risk10; project18; impact; -2401.608
+R; affects; risk10; project8; impact; -5134.6136
+R; affects; risk10; project17; impact; -4691.3807
+R; affects; risk10; project32; impact; -5589.9709
